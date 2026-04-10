@@ -36,7 +36,7 @@ mvn spring-boot:run
 ```
 
 ### Frontend
-
+```bash
 cd frontend/room-booking-frontend
 npm install
 npm run dev
