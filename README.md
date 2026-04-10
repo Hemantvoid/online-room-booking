@@ -33,6 +33,9 @@ It also includes an admin panel to manage rooms and bookings.
 ```bash
 cd backend/room-booking/room-booking
 mvn spring-boot:run
+```
+
+### Frontend
 
 cd frontend/room-booking-frontend
 npm install
